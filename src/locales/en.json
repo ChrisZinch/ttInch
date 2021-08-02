@@ -1,0 +1,23 @@
+{
+    "Home": {
+        "title": [
+            "Help",
+            "Pharmacist"
+        ],
+        "subtitle": "Welcome to the game",
+        "button": "Start"
+    },
+    "End": {
+        "title": "Your result:",
+        "subtitle": "«What am I doing here?»",
+        "text": "This is a test task, so we will not delve into the depths of the problems of pharmacists.",
+        "button": "Try again"
+    },
+    "DescApp": {
+        "param": "Parameters:",
+        "turn": " Remaining in the queue:"
+    },
+    "CustomerList": {
+        "preparation": "Preparation"
+    }
+}
